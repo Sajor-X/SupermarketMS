@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1484898417 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\admin.c
+	"Super.h"
+
+1484899498 c:\users\bjtuhbxy\desktop\ms\supermarketms\super.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1484899498 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\display.c
+	"Super.h"
+
+1484898419 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\fileoperation.c
+	"Super.h"
+
+1484898419 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\gadget.c
+	"Super.h"
+
+1484898864 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\browse.c
+	"Super.h"
+
+1484899498 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\dataoperation.c
+	"Super.h"
+
+1484898431 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\goodscontrol.c
+	"Super.h"
+
+1484901359 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\init.c
+	"Super.h"
+
+1484897452 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\main.c
+	"Super.h"
+
+1484898419 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\user.c
+	"Super.h"
+
+1484898419 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\usercart.c
+	"Super.h"
+
+1484898864 source:c:\users\bjtuhbxy\desktop\ms\supermarketms\userpay.c
+	"Super.h"
+
+1499304538 source:c:\users\zzx\desktop\ms\supermarketms\admin.c
+	"Super.h"
+
+1499306395 c:\users\zzx\desktop\ms\supermarketms\super.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1499260987 source:c:\users\zzx\desktop\ms\supermarketms\browse.c
+	"Super.h"
+
+1499260985 source:c:\users\zzx\desktop\ms\supermarketms\dataoperation.c
+	"Super.h"
+
+1484899498 source:c:\users\zzx\desktop\ms\supermarketms\display.c
+	"Super.h"
+
+1484898419 source:c:\users\zzx\desktop\ms\supermarketms\fileoperation.c
+	"Super.h"
+
+1499306412 source:c:\users\zzx\desktop\ms\supermarketms\gadget.c
+	"Super.h"
+
+1484898431 source:c:\users\zzx\desktop\ms\supermarketms\goodscontrol.c
+	"Super.h"
+
+1499261235 source:c:\users\zzx\desktop\ms\supermarketms\init.c
+	"Super.h"
+
+1484897452 source:c:\users\zzx\desktop\ms\supermarketms\main.c
+	"Super.h"
+
+1484898419 source:c:\users\zzx\desktop\ms\supermarketms\user.c
+	"Super.h"
+
+1484898419 source:c:\users\zzx\desktop\ms\supermarketms\usercart.c
+	"Super.h"
+
+1484898864 source:c:\users\zzx\desktop\ms\supermarketms\userpay.c
+	"Super.h"
+
+1484973856 source:c:\users\bjtuhbxy\desktop\supermarketms\admin.c
+	"Super.h"
+
+1484977507 c:\users\bjtuhbxy\desktop\supermarketms\super.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1484966001 source:c:\users\bjtuhbxy\desktop\supermarketms\browse.c
+	"Super.h"
+
+1484978492 source:c:\users\bjtuhbxy\desktop\supermarketms\dataoperation.c
+	"Super.h"
+
+1484973138 source:c:\users\bjtuhbxy\desktop\supermarketms\display.c
+	"Super.h"
+
+1484898419 source:c:\users\bjtuhbxy\desktop\supermarketms\fileoperation.c
+	"Super.h"
+
+1484977507 source:c:\users\bjtuhbxy\desktop\supermarketms\gadget.c
+	"Super.h"
+
+1484966014 source:c:\users\bjtuhbxy\desktop\supermarketms\goodscontrol.c
+	"Super.h"
+
+1484966001 source:c:\users\bjtuhbxy\desktop\supermarketms\init.c
+	"Super.h"
+
+1484973994 source:c:\users\bjtuhbxy\desktop\supermarketms\main.c
+	"Super.h"
+
+1484898419 source:c:\users\bjtuhbxy\desktop\supermarketms\user.c
+	"Super.h"
+
+1484966641 source:c:\users\bjtuhbxy\desktop\supermarketms\usercart.c
+	"Super.h"
+
+1484967208 source:c:\users\bjtuhbxy\desktop\supermarketms\userpay.c
+	"Super.h"
+
+1484973856 source:c:\users\zzx\desktop\supermarketms\supermarketms\admin.c
+	"Super.h"
+
+1499389068 c:\users\zzx\desktop\supermarketms\supermarketms\super.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1484966001 source:c:\users\zzx\desktop\supermarketms\supermarketms\browse.c
+	"Super.h"
+
+1484973138 source:c:\users\zzx\desktop\supermarketms\supermarketms\display.c
+	"Super.h"
+
+1484898419 source:c:\users\zzx\desktop\supermarketms\supermarketms\fileoperation.c
+	"Super.h"
+
+1484977507 source:c:\users\zzx\desktop\supermarketms\supermarketms\gadget.c
+	"Super.h"
+
+1484966014 source:c:\users\zzx\desktop\supermarketms\supermarketms\goodscontrol.c
+	"Super.h"
+
+1484966001 source:c:\users\zzx\desktop\supermarketms\supermarketms\init.c
+	"Super.h"
+
+1484973994 source:c:\users\zzx\desktop\supermarketms\supermarketms\main.c
+	"Super.h"
+
+1484898419 source:c:\users\zzx\desktop\supermarketms\supermarketms\user.c
+	"Super.h"
+
+1484966641 source:c:\users\zzx\desktop\supermarketms\supermarketms\usercart.c
+	"Super.h"
+
+1484967208 source:c:\users\zzx\desktop\supermarketms\supermarketms\userpay.c
+	"Super.h"
+
+1499388620 source:c:\users\zzx\desktop\supermarketms\supermarketms\dataoperation.c
+	"Super.h"
+
